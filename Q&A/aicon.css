@@ -1,0 +1,13 @@
+.prof {
+    border: 2px solid #000;
+    border-radius: 80px;
+    -moz-border-image: border-radius: 80px;
+    -webkit-border-image: border-radius: 80px;
+    height: 40px;
+    width: 40px;
+}
+.prof img {
+    border-radius: 80px;
+    -moz-border-image: border-radius: 80px;
+    -webkit-border-image: border-radius: 80px;
+}
